@@ -5,9 +5,9 @@
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**:
-**Source**: 
-**Authors**: Gao, Shan
-**Year**: 2022
+**Source**: Forest phenology and a warmer climate – growing season extension in relation to climatic provenance
+**Authors**: Gunderson, Carla et al. 
+**Year**: 2012
 **Location**: Zotero
-**Keywords**: #xylem_development
-**Added to slipbox on**: 8 October 2024. 
+**Keywords**: 
+**Added to slipbox on**: 18 October 2024. 
