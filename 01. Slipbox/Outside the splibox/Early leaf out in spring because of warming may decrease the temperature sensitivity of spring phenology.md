@@ -8,5 +8,5 @@ With warming-induced leaf-out advancement, reduced photoperiod earlier in spring
 **Authors**: Piao, Shilong
 **Year**: 2019
 **Location**: Zotero/Paper
-**Keywords**:  #spring_frost #earlyspring 
+**Keywords**:  #SpringFrost  #earlyspring 
 **Added to slipbox on**: 13 September 2024. 

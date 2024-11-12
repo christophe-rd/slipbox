@@ -3,10 +3,10 @@
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
-**Cross references**:
-**Source**: 
+**Cross references**: 
+**Source**:
 **Authors**: 
-**Year**: 
+**Year**:
 **Location**: Zotero
 **Keywords**: 
-**Added to slipbox on**:  October 2024. 
+**Added to slipbox on**:   November 2024

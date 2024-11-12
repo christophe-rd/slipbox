@@ -13,5 +13,5 @@ Earlier leaf-out = larger amount of solar radiation absorption that heats the ca
 **Authors**: Piao, Shilong
 **Year**: 2019
 **Location**: Zotero/Paper
-**Keywords**:  #spring_frost #earlyspring 
+**Keywords**:  #SpringFrost  #earlyspring 
 **Added to slipbox on**: 13 September 2024. 
