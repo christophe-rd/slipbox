@@ -1,7 +1,7 @@
 #### **Relevant notes**:
 Photoperiod is often accepted as a trigger of autumn phenology. However, **potential warming at the end of the growing season** is often ignored. 
 Yet, inter-annual differences in autumn phenology beg an explanation. 
-Autumn **temperatures** were the primary cue for senescence in 2 Quercus species. 
+Autumn **temperatures** were the primary cue for [[Leaf senescence is controlled by photoperiod and temperature|leaf senescence]] in 2 Quercus species. 
 Same for Fagus, but photoperiod played a role as well.
 In Populus, senescence was triggered by long nights, but lower temperature accelerated chlorophyll degradation. 
 Malus and Pyrus, senescence was induced by low temperature and they were **insensitive** to photoperiod. 

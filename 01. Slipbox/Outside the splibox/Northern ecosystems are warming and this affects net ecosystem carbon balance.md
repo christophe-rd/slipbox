@@ -8,5 +8,5 @@ Northern ecosystems have experienced the largest warming rates on the globe. In 
 **Authors**: Barichivich, Jonathan
 **Year**: 2013
 **Location**: Zotero
-**Keywords**: #climateChange  #net_ecosystem_productivity 
+**Keywords**: #climateChange  #EcosystemProductivity 
 **Added to slipbox on**:  4 November 2024. 

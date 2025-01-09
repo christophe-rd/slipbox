@@ -1,5 +1,5 @@
 #### Definition:
-**Active deacclimatation**: loss of cold hardiness as part of a general enhancement of metabolism and development in response to the combined effect of past chilling experience, photoperiod and concurrent temperatures. By temperature : forcing.
+**Active deacclimatation**: loss of cold hardiness as part of a general enhancement of metabolism and development in response to the combined effect of past chilling experience, photoperiod and concurrent temperatures. By temperature: forcing.
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References

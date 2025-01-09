@@ -6,6 +6,7 @@ In spring, there are 2 forms of deacclimatation :
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[Trees are more vulnerable to spring warm spells than autumn cold spells]]
 **Source**: The interaction between freezing tolerance and phenology in temperate deciduous trees
 **Authors**: Yann Vitasse, Christian Koerner
 **Year**: 2014

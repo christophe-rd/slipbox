@@ -13,6 +13,7 @@ Simple orbital or rotary sanding tools using a range of grit size from 280 to 60
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**:
+[[Methods. Cross section and core preparation]]
 **Source**: Applications in the Environmental Sciences
 **Authors**: Cook, E.R.
 **Year**: 1992

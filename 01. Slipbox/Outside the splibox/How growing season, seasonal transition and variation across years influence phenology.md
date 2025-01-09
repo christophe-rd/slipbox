@@ -6,12 +6,13 @@ How growing season, seasonal transition length, and inter-annual variability may
 2. Species phenologies occupying long gradual seasonal transition periods should be sensitive to climate. Species timed to rapid transitions may be less sensitive to climate because of high competition. 
 		Some systems have extremely rapid, consistent transition periods such as tropical monsoon forests
 3. Species phenologies to environments with low interannual variability should respond more strongly to biotic forces, whereas species in environments experiencing high interannual variability should be more sensitive to abiotic forces.
-4. Phenological traits responding to cues associated with temporal niche-partitioning, such as photoperiod, should exhibit faster evolutionary rates, whereas responses to temperature and precipitation should exhibit slower evolutionary rates.
+4. Phenological traits responding to cues associated with [[Temporal Niche|temporal niche]]-partitioning, such as photoperiod, should exhibit faster evolutionary rates, whereas responses to temperature and precipitation should exhibit slower evolutionary rates.
 ![[Screenshot 2025-01-08 at 2.35.23 PM.png]]
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[Ecological Coexistence through Temporal Niches and the Storage Effect]]
 **Source**: Predicting phenology by integrating ecology, evolution and climate science
 **Authors**: Stephanie Pau, Lizzie Wolkovich, Elsa Cleland, 
 **Year**: 2011

@@ -11,8 +11,10 @@ Several studies have found that especially early or late phenologies may aid the
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
-[[Better climate favors introduction of alien species]]
+[[Better climate favours introduction of alien species]]
 [[Phenology of native species is more responsive to climate]]
+[[Ecological Coexistence through Temporal Niches and the Storage Effect]]
+[[Vacant niche predicts exotic plants will invade where there is an open niche]]
 **Source**: Phenological niches and the future of invaded ecosystems with climate change
 **Authors**: Lizzie Wolkovich, Elsa Cleland
 **Year**: 2014

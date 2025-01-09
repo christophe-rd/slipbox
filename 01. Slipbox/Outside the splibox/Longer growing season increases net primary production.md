@@ -10,5 +10,5 @@ Piao et al. 2008 showed longer and warmer autumn [[Phenophase|phenophases]] incr
 **Authors**: Caparros-Santiago, Jose
 **Year**: 2021
 **Location**: Zotero
-**Keywords**: #net_ecosystem_productivity #NetPrimaryProduction
+**Keywords**: #EcosystemProductivity  #NetPrimaryProduction
 **Added to slipbox on**:  4 November 2024. 

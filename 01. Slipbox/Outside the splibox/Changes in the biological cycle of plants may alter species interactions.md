@@ -9,5 +9,5 @@ Therefore, phenodynamics are extremely important in understanding behavioural re
 **Authors**: Caparros-Santiago, Jose
 **Year**: 2021
 **Location**: Zotero
-**Keywords**: #net_ecosystem_productivity #NetPrimaryProduction
+**Keywords**: #EcosystemProductivity  #NetPrimaryProduction
 **Added to slipbox on**:  4 November 2024. 
