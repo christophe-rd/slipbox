@@ -1,5 +1,5 @@
 #### **Relevant notes**:
-In contrast with the climatic factors controlling autumn phenology, climate signals for spring phenology are well understood: nearly all phenophases correlate with spring temperatures in the preceding months.
+In contrast with the climatic factors controlling autumn phenology, climate signals for spring phenology are well understood: nearly all [[Phenophase|phenophases]] correlate with spring temperatures in the preceding months.
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References

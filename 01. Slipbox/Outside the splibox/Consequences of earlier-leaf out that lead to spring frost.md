@@ -18,3 +18,7 @@ Earlier leaf-out increases the risk of spring frost
 **Location**: Zotero
 **Keywords**: #SpringPhenology #SpringFrost
 **Added to slipbox on**:  12 November 2024
+
+**See also:** 
+[[The timing of phenology affects trees' growth, reproduction and competition|The interaction between freezing tolerance and phenology in temperate deciduous trees]]
+- The mention that  the risk of trees to encounter freezing damages is changing, but it's unclear wether the risk increases or not.

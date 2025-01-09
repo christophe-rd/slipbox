@@ -9,7 +9,7 @@ Their results show delayed phenophases regardless of differences in photoperiod 
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
-**Cross references**:
+**Cross references**: [[Photoperiod as a dominant cue for growth cessation]]
 **Source**: Forest phenology and a warmer climate – growing season extension in relation to climatic provenance
 **Authors**: Gunderson, Carla et al. 
 **Year**: 2012

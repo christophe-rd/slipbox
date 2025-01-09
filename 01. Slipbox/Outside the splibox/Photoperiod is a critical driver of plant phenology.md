@@ -7,6 +7,7 @@ The effect of photoperiod on spring phenology is unclear unlike its effect on fa
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[Fagus sylvatica is very sensitive to photoperiod]]
 **Source**: Plant Phenology and global climate change: Current progresses and challenges
 **Authors**: Piao, Shilong
 **Year**: 2019

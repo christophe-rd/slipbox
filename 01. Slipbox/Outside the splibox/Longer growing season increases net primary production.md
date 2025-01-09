@@ -1,7 +1,7 @@
 #### **Relevant notes**:
 Longer growing seasons lead to increased net primary production (NPP), which results in increased CO2 absorption and could potentially contribute to a reduction of atmospheric greenhouse gasses. 
 **It can also have negative effects.** :
-Piao et al. 2008 showed longer and warmer autumn phenophases increased **respiration** thus leading to an increase in the amount of CO2 released to the atmosphere.
+Piao et al. 2008 showed longer and warmer autumn [[Phenophase|phenophases]] increased **respiration** thus leading to an increase in the amount of CO2 released to the atmosphere.
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References

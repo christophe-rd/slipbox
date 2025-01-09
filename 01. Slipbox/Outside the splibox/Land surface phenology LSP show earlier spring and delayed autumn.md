@@ -1,5 +1,5 @@
 #### **Relevant notes**:
-**Land surface phenology LSP**, which refers to vegetation phenology derived from satellite data is generally estimated based on [[Vegetation indices]](VI) or [[Biophysical variables]]. Both can be used to study phenophases and obtain specific [[Phenological metrics]]
+**Land surface phenology LSP**, which refers to vegetation phenology derived from satellite data is generally estimated based on [[Vegetation indices]] (VI) or [[Biophysical variables]]. Both can be used to study [[Phenophase |phenophases]]  and obtain specific [[Phenological metrics |phenological metrics]]
 
 LSP studies since the 1980s showed earlier spring and delayed autumn phenophases as general trends. Although, these trends were associated mainly to changes in temperature and precipitation. Pheno cycle dynamics might be related to other drivers, such as photoperiod, soil moisture or organic carbon content.
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>

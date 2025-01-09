@@ -12,5 +12,5 @@ This study was published in 2006. They report 3 techniques to determine GSL chan
 **Authors**: Linderholm, Hans
 **Year**: 2006
 **Location**: Zotero
-**Keywords**: #growing_season 
+**Keywords**: #growingSeason
 **Added to slipbox on**:  October 2024. 

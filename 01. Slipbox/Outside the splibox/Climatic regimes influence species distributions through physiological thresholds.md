@@ -1,5 +1,5 @@
 #### **Relevant notes**:
-Climatic regimes influence species distributions often through species-specific physiological thresholds of temperature and precipitation tolereance. These climate envelopes shift toward the poles or higher altitudes.
+Climatic regimes influence species distributions often through species-specific physiological thresholds of temperature and precipitation tolerance. These climate envelopes shift toward the poles or higher altitudes.
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References

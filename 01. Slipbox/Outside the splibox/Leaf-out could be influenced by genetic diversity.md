@@ -4,6 +4,7 @@ Another factor that influences the timing of leaf out is the amount of **genetic
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[Fagus sylvatica is very sensitive to photoperiod]]
 **Source**: Leaf-out phenology of temperate woody plants: from trees to ecosystems
 **Authors**: Polgar, Caroline
 **Year**: 2011
