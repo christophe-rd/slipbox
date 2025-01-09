@@ -13,5 +13,5 @@ Few studies have documented the phenological events in the fall. The evidence po
 **Authors**: Piao, Shilong
 **Year**: 2019
 **Location**: Zotero/Paper
-**Keywords**: #phenostages #phenostages_methodology 
+**Keywords**: #phenostages #PhenostagesMethodology
 **Added to slipbox on**: 13 September 2024. 

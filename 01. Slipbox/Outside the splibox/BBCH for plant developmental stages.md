@@ -10,5 +10,5 @@ BBCH is a system that has provided a uniform definition of plant developmental s
 **Authors**: Piao, Shilong
 **Year**: 2019
 **Location**: Zotero/Paper
-**Keywords**: #phenostages #phenostages_methodology 
+**Keywords**: #phenostages #PhenostagesMethodology
 **Added to slipbox on**: 13 September 2024. 

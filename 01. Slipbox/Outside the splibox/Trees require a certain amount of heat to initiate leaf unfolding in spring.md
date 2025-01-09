@@ -7,6 +7,7 @@ Boreal and temperate trees require a certain amount of heat after they come out 
 **Cross references**: 
 [[Dormancy release]]
 [[Trees go through 2 forms of deacclimatation during spring]]
+[[Warmer winter temperature increases forcing requirements for budburst]]
 **Source**: Declining global warming effects on the phenology of spring leaf unfolding
 **Authors**: Yongshuo H., Fu
 **Year**: 2015

@@ -8,7 +8,7 @@ E.g. as the climate warms at a specific location, the day of year when the risk 
 [[Response of Trees to spring frost]]
 [[Photoperiod as a protective mechanisms to prevent spring frost]]
 [[Factors controlling forest phenology]]
-[[Consequences of earlier-leaf out that lead to spring frost]]
+[[Earlier-leaf out can lead to spring frost]]
 **Source**: Photoperiod constraints on tree phenology, performance and migration in a warming world
 **Authors**: Way, Danielle
 **Year**: 2015

@@ -10,5 +10,5 @@ Data accumulation through remote sensing greatly enhanced our capacity to detect
 **Authors**: Piao, Shilong
 **Year**: 2019
 **Location**: Zotero/Paper
-**Keywords**: #phenostages #phenostages_methodology 
+**Keywords**: #phenostages #PhenostagesMethodology
 **Added to slipbox on**: 13 September 2024. 

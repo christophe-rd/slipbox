@@ -4,7 +4,7 @@
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
-[[Consequences of earlier-leaf out that lead to spring frost]]
+[[Earlier-leaf out can lead to spring frost]]
 **Source**: The interaction between freezing tolerance and phenology in temperate deciduous trees
 **Authors**: Yann Vitasse, Christian Koerner
 **Year**: 2014

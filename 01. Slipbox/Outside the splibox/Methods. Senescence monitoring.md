@@ -13,5 +13,5 @@ Unitless SPAD values were converted to chlorophyll concentrations using a calibr
 **Authors**: Gunderson, Carla et al. 
 **Year**: 2012
 **Location**: Zotero
-**Keywords**: #phenostages_methodology 
+**Keywords**: #PhenostagesMethodology 
 **Added to slipbox on**: 21 October 2024. 

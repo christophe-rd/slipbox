@@ -1,10 +1,10 @@
 #### **Relevant notes**:
-Spring phenology was assessed by repeated observations of all seedlings. BB and leaf emergence were assessed for each inviduals as expressed as a single composite score for the tree. A scale from 1 (no bud activity) to 6 (leaves flat and expanded) was used, adapted from the phenological stages of Norby and al. 2003. 
+They found that the induced delay or advance of budburst had a strong impact on the timing of budset, used here as a proxy for primary growth cessation.
+They suggest that the potential delay in senescence processes due to global warming might be smaller than expected because of this positive relationship between spring budburst timing and autumn phenophases.
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**:
-[[Methods. Spring phenophases description]]
 **Source**: Forest phenology and a warmer climate – growing season extension in relation to climatic provenance
 **Authors**: Gunderson, Carla et al. 
 **Year**: 2012

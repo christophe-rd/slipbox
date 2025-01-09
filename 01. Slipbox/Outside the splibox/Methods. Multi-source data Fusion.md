@@ -10,5 +10,5 @@ Multiple models have been used, but the spatial and temporal adaptive reflectanc
 **Authors**: Piao, Shilong
 **Year**: 2019
 **Location**: Zotero/Paper
-**Keywords**: #phenostages #phenostages_methodology 
+**Keywords**: #phenostages #PhenostagesMethodology
 **Added to slipbox on**: 13 September 2024. 

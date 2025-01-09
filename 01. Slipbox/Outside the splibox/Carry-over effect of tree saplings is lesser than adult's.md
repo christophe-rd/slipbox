@@ -1,10 +1,9 @@
 #### **Relevant notes**:
-Spring phenology was assessed by repeated observations of all seedlings. BB and leaf emergence were assessed for each inviduals as expressed as a single composite score for the tree. A scale from 1 (no bud activity) to 6 (leaves flat and expanded) was used, adapted from the phenological stages of Norby and al. 2003. 
+Even though sapling phenology doesn't represent adult tree phenology, they are relevant as they are the future of the next generation in mature forests. Thus the carryover effect for these might not be as strong as for adults because they have other factors such as flowering and seed formation that may play a regulating role.
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**:
-[[Methods. Spring phenophases description]]
 **Source**: Forest phenology and a warmer climate – growing season extension in relation to climatic provenance
 **Authors**: Gunderson, Carla et al. 
 **Year**: 2012
