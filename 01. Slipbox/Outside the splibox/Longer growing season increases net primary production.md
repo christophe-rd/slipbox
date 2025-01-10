@@ -6,6 +6,7 @@ Piao et al. 2008 showed longer and warmer autumn [[Phenophase|phenophases]] incr
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**:
+[[Warmer temperatures might not increase forest carbon assimilation]]
 **Source**: Land surface phenology as indicator of global terrestrial ecosystem dynamics: A systematic review
 **Authors**: Caparros-Santiago, Jose
 **Year**: 2021

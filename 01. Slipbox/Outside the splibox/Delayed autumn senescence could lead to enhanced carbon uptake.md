@@ -4,8 +4,9 @@ However, delayed [[Leaf senescence is controlled by photoperiod and temperature|
 - Perhaps here: [[Warmer springs lead to earlier tree phenology]] *Fredi mentions that earlier spring means plants start taking up water earlier and could increase drought. Therefore, this could partially explain the earlier growth cessation*
 #### References
 **Cross references**: 
+[[Carbon source-sink dynamics could influence leaf senescence]]
 **Source**: How changes in spring and autumn phenology translate into growth-experimental evidence of asymmetric effects
-**Authors**: #Zohner #Renner
+**Authors**: Constantin Zohner, Renner
 **Year**: 2021
 **Location**: Zotero
-**Keywords**: #earlyspring
+**Keywords**: #AutumnPhenology #SpringPhenology 

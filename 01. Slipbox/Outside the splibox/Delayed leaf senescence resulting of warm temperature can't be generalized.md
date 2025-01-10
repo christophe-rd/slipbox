@@ -6,9 +6,10 @@ Projections that climatic warming will delay the onset of leaf senescence and fa
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[Carbon source-sink dynamics could influence leaf senescence]]
 **Source**: Alteration of the phenology of leaf senescence and fall in winter deciduous species by climate change: effects on nutrient proficiency
 **Authors**: Estiarte, Marc
 **Year**: 2015
 **Location**: Zotero
-**Keywords**: #PlantPhysiology 
+**Keywords**: #PlantPhysiology #AutumnPhenology 
 **Added to slipbox on**: 9 January 2025
