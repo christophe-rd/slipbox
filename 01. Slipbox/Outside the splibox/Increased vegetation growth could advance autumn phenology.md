@@ -4,6 +4,8 @@ Increased vegetation growth during the growing season advanced autumn phenology.
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[Warmer temperature and increased physiology may advance EOS]]
+[[Onset of senescence is driven by pre-solstice vegetation activity]]
 **Source**: Atmospheric brightening counteracts warming-induced delays in autumn phenology of temperate trees in Europe
 **Authors**: Wu Zhaofei
 **Year**: 2021

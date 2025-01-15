@@ -5,6 +5,7 @@ At large scales, autumn observations may rely on ground or satellite-based estim
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**:
+[[Metrics used to measure leaf senescence]]
 **Source**: Forest phenology and a warmer climate – growing season extension in relation to climatic provenance
 **Authors**: Gunderson, Carla et al. 
 **Year**: 2012

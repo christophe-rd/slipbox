@@ -6,6 +6,7 @@ Climate change has greatly shifted major events. E.g. spring and autumn, but has
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[Competition consequences because of autumn photoperiod sensitivity]]
 **Source**: Plant Phenology and global climate change: Current progresses and challenges
 **Authors**: Piao, Shilong
 **Year**: 2019

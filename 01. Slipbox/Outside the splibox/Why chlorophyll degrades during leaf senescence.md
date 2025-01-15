@@ -4,6 +4,7 @@ The degradation of chlorophyll, the cause of the characteristic leaf yellowing, 
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[Delayed autumn senescence could be the result of maintained enzyme activity]]
 **Source**: Alteration of the phenology of leaf senescence and fall in winter deciduous species by climate change: effects on nutrient proficiency
 **Authors**: Estiarte, Marc
 **Year**: 2015

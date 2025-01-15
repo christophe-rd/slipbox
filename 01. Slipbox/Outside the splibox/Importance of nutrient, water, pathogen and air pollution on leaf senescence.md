@@ -4,6 +4,7 @@ Autumn senescence is thought to be driven by temperature and photoperiod, but fa
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[How light affect trees' autumn phenology is unclear]]
 **Source**: Carbon Source Reduction Postpones Autumn Leaf Senescence in a Widespread Deciduous Tree
 **Authors**: Julia Maschler, Constantin Zohner, Thomas Crowther
 **Year**: 2022

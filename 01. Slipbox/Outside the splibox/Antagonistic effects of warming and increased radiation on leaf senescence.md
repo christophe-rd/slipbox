@@ -6,6 +6,7 @@ They reveal an antagonistic effect of warming and brightening on leaf senescence
 ##### References
 **Cross references**: 
 [[Importance of nutrient, water, pathogen and air pollution on leaf senescence]]
+[[Climate change could lead to earlier leaf senescence]]
 **Source**: Atmospheric brightening counteracts warming-induced delays in autumn phenology of temperate trees in Europe
 **Authors**: Wu Zhaofei
 **Year**: 2021

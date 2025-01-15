@@ -5,6 +5,7 @@ A strong relationship between observed EOS and simulated Anet (Net CO2 assimilat
 ##### References
 **Cross references**: 
 [[True growing season,  based on measurable growth]]
+[[Pre-solstice productivity would dictate leaf senescence date]]
 **Source**: Acclimation of phenology relieves leaf longevity constraints in deciduous forests
 **Authors**: Laura Marqués
 **Year**: 2023

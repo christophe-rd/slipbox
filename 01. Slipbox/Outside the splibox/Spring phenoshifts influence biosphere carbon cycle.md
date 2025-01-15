@@ -12,7 +12,7 @@ Discuss with Lizzie:
 4. Safety training for belt sanding
 
 ### 2 December 
-[[Meetings Lizzie]]
+[[2023 Meetings Lizzie]]
 - For image J, maybe print 1 picture with 3 lines. 
 - How to add years directly? 
 - Can we add comments to measurements in image J

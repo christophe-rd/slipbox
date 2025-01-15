@@ -5,6 +5,8 @@ Recent models predict that in spite of the ongoing warmer autumn trends, leaf se
 ##### References
 **Cross references**: 
 [[Antagonistic effects of warming and increased radiation on leaf senescence]]
+[[Delayed autumn senescence could be the result of maintained enzyme activity]]
+[[Warmer temperature and increased physiology may advance EOS]]
 **Source**: Atmospheric brightening counteracts warming-induced delays in autumn phenology of temperate trees in Europe
 **Authors**: Wu Zhaofei
 **Year**: 2021

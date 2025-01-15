@@ -7,6 +7,7 @@ These effects are positive for deciduous species and negative for evergreen.
 **Cross references**: 
 [[Warming experiments advanced bud bursts even outside their native ranges]]
 [[Warming experiments produced smaller sensitivities compared to natural observations]]
+[[Autumn senescence and growth respond differently to seasonal warming]]
 **Source**: Photoperiod constraints on tree phenology, performance and migration in a warming world
 **Authors**: Way, Danielle
 **Year**: 2015

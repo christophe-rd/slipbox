@@ -10,7 +10,7 @@
 #### References
 **Cross references**: 
 - [[Limitations of tree growth can be source or sink limited]]
-- [[Warmer springs lead to earlier tree phenology]]
+- [[Earlier leaf-out might amplify drought in early summer]]
 - [[How tree growth is affected by temperature]]
 - [[Meteorological season, based on environmental conditions]]
 - 

@@ -7,8 +7,9 @@ Colder temperatures may also account for the trend toward the faster progression
 ##### References
 **Cross references**: 
 [[Minimum temperature would trigger leaf senescence]]
-[[Environmental cues controlling leaf senescence are not clear]]
+[[Environmental cues controlling leaf senescence are unclear]]
 [[Delayed leaf senescence resulting of warm temperature can't be generalized]]
+[[Warmer summer and autumn led to delayed EOS]]
 **Source**: Alteration of the phenology of leaf senescence and fall in winter deciduous species by climate change: effects on nutrient proficiency
 **Authors**: Estiarte, Marc
 **Year**: 2015

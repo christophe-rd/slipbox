@@ -7,6 +7,8 @@ Projections that climatic warming will delay the onset of leaf senescence and fa
 ##### References
 **Cross references**: 
 [[Carbon source-sink dynamics could influence leaf senescence]]
+[[Low-latitude autumn senescence has been more delayed than at high latitudes]]
+[[Climate change could lead to earlier leaf senescence]]
 **Source**: Alteration of the phenology of leaf senescence and fall in winter deciduous species by climate change: effects on nutrient proficiency
 **Authors**: Estiarte, Marc
 **Year**: 2015

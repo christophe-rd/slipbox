@@ -5,9 +5,11 @@ They suggest that the potential delay in senescence processes due to global warm
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**:
+[[Mechanisms explaining the carry-over effect of SOS on EOS]]
+[[Warmer temperature and increased physiology may advance EOS]]
 **Source**: Forest phenology and a warmer climate – growing season extension in relation to climatic provenance
 **Authors**: Gunderson, Carla et al. 
 **Year**: 2012
 **Location**: Zotero
-**Keywords**: #PhenostagesMethodology
+**Keywords**: #PhenostagesMethodology #Carry-overEffect
 **Added to slipbox on**: 21 October 2024. 

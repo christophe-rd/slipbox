@@ -9,6 +9,7 @@ Leaf senescence consists of the orderly degradation of the cells of the leaf, le
 [[Physiological onset of leaf senescence]]
 [[Leaf senescence is controlled by photoperiod and temperature]]
 [[Purpose of leaf senescence]]
+[[Importance of considering biological relevance of senescence metrics]]
 **Source**: Alteration of the phenology of leaf senescence and fall in winter deciduous species by climate change: effects on nutrient proficiency
 **Authors**: Estiarte, Marc
 **Year**: 2015

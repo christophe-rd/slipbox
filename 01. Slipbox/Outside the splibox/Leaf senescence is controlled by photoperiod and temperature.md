@@ -8,6 +8,7 @@ Leaf senescence is controlled by photoperiod and temperature. As the photoperiod
 [[Cold-Degree Day sum model (CDD)]]
 [[Leaf colouring used to quantify leaf senescence]]
 [[Leaf fall happens after senescence]]
+[[Strongest predictors of leaf senescence date]]
 **Source**:  A new process-based model for predicting autumn phenology: How is leaf senescence controlled by photoperiod and temperature coupling?
 **Authors**: Piao, Shilong, Lang, Weiguang, Lang
 **Year**: 2019

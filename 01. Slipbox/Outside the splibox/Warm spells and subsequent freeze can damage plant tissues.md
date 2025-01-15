@@ -5,6 +5,7 @@
 ##### References
 **Cross references**: 
 [[Earlier-leaf out can lead to spring frost]]
+[[Leaf phenology' sensitivity to stress depends on the species]]
 **Source**: The interaction between freezing tolerance and phenology in temperate deciduous trees
 **Authors**: Yann Vitasse, Christian Koerner
 **Year**: 2014
