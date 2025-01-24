@@ -8,6 +8,7 @@ No common garden studies have investigated whether there is a genetic differenti
 **Cross references**: 
 [[Genetic differentiation in cold hardiness among tree populations]]
 [[Trees from colder climate grow slower in common gardens]]
+[[Autumn events follow climatic clines more strongly than spring events]]
 **Source**: The interaction between freezing tolerance and phenology in temperate deciduous trees
 **Authors**: Yann Vitasse, Christian Koerner
 **Year**: 2014

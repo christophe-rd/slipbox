@@ -6,6 +6,7 @@ Trees have evolved, in the last 11 000 years into an interglacial period (Holoce
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[Plant mismatch with climate may contribute further to climate change]]
 **Source**: The interaction between freezing tolerance and phenology in temperate deciduous trees
 **Authors**: Yann Vitasse, Christian Koerner
 **Year**: 2014
