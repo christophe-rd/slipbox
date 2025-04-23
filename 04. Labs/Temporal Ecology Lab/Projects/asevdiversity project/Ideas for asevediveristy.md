@@ -1,1 +1,0 @@
--Location articles map : color code at which countries that has the most paper published

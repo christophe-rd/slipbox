@@ -1,1 +1,0 @@
-![[Screenshot 2023-07-24 at 5.03.13 PM.png]]

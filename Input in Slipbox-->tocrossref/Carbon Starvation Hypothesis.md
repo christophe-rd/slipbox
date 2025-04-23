@@ -1,1 +1,0 @@
-Indicates that the balance between carbon uptake and expense is upset during a long-term external stress --> reduced growth and even death. 

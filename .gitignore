@@ -1,1 +1,10 @@
-*.DS_Store
+*.DS.Store
+# Ignore everything
+*
+
+# But not these!
+!.gitignore
+!gitremote/
+
+!gitremote/**
+
