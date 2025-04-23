@@ -1,5 +1,10 @@
-<<<<<<< HEAD
+*.DS.Store
+# Ignore everything
+*
 
-=======
->>>>>>> c21b2b43620fa0bb00918b4b878d55bb30399871
-*.DS_Store
+# But not these!
+!.gitignore
+!gitremote/
+
+!gitremote/**
+
