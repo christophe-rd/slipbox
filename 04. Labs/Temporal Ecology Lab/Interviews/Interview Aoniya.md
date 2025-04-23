@@ -1,0 +1,2 @@
+She has experience in working outside for the Stanley park. She said she was interested in mathematical modeling for glacier and stuff. She used git once. I don't think she really knows what she would get into if she would start coding. 
+She is just starting her major in oceanography. She is very unsure what her interests are. I believe she wants to keep her options opened. 

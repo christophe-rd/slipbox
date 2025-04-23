@@ -1,0 +1,7 @@
+- Paper id 391: can't recognize how many rootstocks were used
+	- Question: Id 391: 19 genotypes were used to measure transpiration, but no explicit mention of scion or rootstock. Is it irrelevant in this paper?
+- If two locations a one paper, should I put 2 rows?
+	- Yes
+- Question: Id 449: they checked the presence of bacteria on different rootstocks and scion from three different regions in Australia. Should this data be included?
+- Comment: When no precise location, I take a central point in the region/city.
+- Comment: I have an access problem  from: |SHS Acta Horticulturae. I have problems with my library access, I will go check at Woodward.  

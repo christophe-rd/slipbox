@@ -1,0 +1,1 @@
+Cheat sheet for colors : ![[Rcolor.pdf]]
