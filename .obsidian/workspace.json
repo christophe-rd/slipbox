@@ -1,0 +1,264 @@
+{
+  "main": {
+    "id": "ae263847f833e1b4",
+    "type": "split",
+    "children": [
+      {
+        "id": "07508465cdca57a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e9bb19c52331644",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Christophe/02. Daily summary/2023-07/2023-07-27.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53d7b5ca315cb6d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Christophe/To do before leaving.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c87b6de094c77d6",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.3.5"
+              }
+            }
+          },
+          {
+            "id": "643ac3651bf55e12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Christophe/04. Labs/Temporal Ecology Lab/Meeting notes/Meetings Freddi.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f16ef475b4e982bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Christophe/To do before leaving.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d749652a4ac8b984",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c5bcf95723dab4d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd709035faffe9ab",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ae62923aec7432e3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8c21137bba7fb1c9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 368.5
+  },
+  "right": {
+    "id": "46bb93f31e45caac",
+    "type": "split",
+    "children": [
+      {
+        "id": "f867b17296866807",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5811c1b481e14829",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Christophe/To do before leaving.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b4a53bb699c10b3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Christophe/To do before leaving.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "afcd8d6b532332a9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b3ae1a64cd9284df",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Christophe/To do before leaving.md"
+              }
+            }
+          },
+          {
+            "id": "4f45efa74d134750",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "f05792f8b11edd80",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 342.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dd709035faffe9ab",
+  "lastOpenFiles": [
+    "Christophe_obsidian_BU 29 JUILLET/04. Labs/Temporal Ecology Lab/Projects/asevdiversity project/Untitled",
+    "Christophe_obsidian_BU 29 JUILLET/04. Labs/Temporal Ecology Lab/Projects/asevdiversity project/Questions to ask to Lizzi.md",
+    "Christophe_obsidian_BU 29 JUILLET/04. Labs/Temporal Ecology Lab/Projects/asevdiversity project/Ideas for asevediveristy.md",
+    "Christophe_obsidian_BU 29 JUILLET/04. Labs/Temporal Ecology Lab/Projects/Phaeonoflex 2023/Phaeonoflex defoliation journal.md",
+    "Christophe_obsidian_BU 29 JUILLET/04. Labs/Temporal Ecology Lab/Projects/Phaeonoflex 2023/Drought treatment methodology.md",
+    "Christophe_obsidian_BU 29 JUILLET/04. Labs/Temporal Ecology Lab/Projects/Phaeonoflex 2023/Drought methodology.md",
+    "Christophe_obsidian_BU 29 JUILLET/04. Labs/Temporal Ecology Lab/Projects/PhaenoFlex 2024/Ideas for Summer 2024 Phaenoflex.md",
+    "Christophe_obsidian_BU 29 JUILLET/04. Labs/Temporal Ecology Lab/Meeting notes/Scrum meetings/Freddi's presentation on writing.md",
+    "Christophe_obsidian_BU 29 JUILLET/04. Labs/Temporal Ecology Lab/Projects/asevdiversity project",
+    "Christophe_obsidian_BU 29 JUILLET/04. Labs/Temporal Ecology Lab/Projects/Phaeonoflex 2023",
+    "Christophe_obsidian_BU 29 JUILLET/04. Labs/Temporal Ecology Lab/Projects/PhaenoFlex 2024",
+    "Christophe_obsidian_BU 29 JUILLET/04. Labs/Temporal Ecology Lab/Projects/Egret to do.md",
+    "Christophe_obsidian_BU 29 JUILLET/04. Labs/Temporal Ecology Lab/Meeting notes/Scrum meetings",
+    "Christophe_obsidian_BU 29 JUILLET/04. Labs/Temporal Ecology Lab/Meeting notes/Meetings Lizzie.md",
+    "Christophe_obsidian_BU 29 JUILLET/04. Labs/Temporal Ecology Lab/Meeting notes/Meetings Freddi.md",
+    "Christophe_obsidian_BU 29 JUILLET/05. Not school related/Travel/Weekend Seattle.md",
+    "Christophe_obsidian_BU 29 JUILLET/05. Not school related/Travel/Lab Camping Trip.md",
+    "Christophe_obsidian_BU 29 JUILLET/04. Labs/Temporal Ecology Lab/Projects",
+    "Christophe_obsidian_BU 29 JUILLET/04. Labs/Temporal Ecology Lab/Meeting notes",
+    "Christophe_obsidian_BU 29 JUILLET/03. Cheat sheets/Writing cheat sheet/Relationship markers.md",
+    "Christophe_obsidian_BU 29 JUILLET/03. Cheat sheets/Writing cheat sheet/Marqueurs de relation.md",
+    "Christophe_obsidian_BU 29 JUILLET/02. Daily summary/2023-07/2023-07-27.md",
+    "Christophe_obsidian_BU 29 JUILLET/02. Daily summary/2023-07/2023-07-26.md",
+    "Christophe_obsidian_BU 29 JUILLET/02. Daily summary/2023-07/2023-07-25.md",
+    "Christophe_obsidian_BU 29 JUILLET/02. Daily summary/2023-07/2023-07-24.md",
+    "Christophe_obsidian_BU 29 JUILLET/02. Daily summary/2023-07/2023-07-23.md",
+    "Christophe_obsidian_BU 29 JUILLET/02. Daily summary/2023-07/2023-07-22.md",
+    "Christophe_obsidian_BU 29 JUILLET/02. Daily summary/2023-07/2023-07-19.md",
+    "Christophe_obsidian_BU 29 JUILLET/02. Daily summary/2023-07/2023-07-18.md",
+    "Christophe_obsidian_BU 29 JUILLET/02. Daily summary/2023-07/2023-07-17.md",
+    "Christophe_obsidian_BU 29 JUILLET/02. Daily summary/2023-07/2023-07-14.md",
+    "Christophe_obsidian_BU 29 JUILLET/02. Daily summary/2023-07/2023-07-13.md",
+    "Christophe_obsidian_BU 29 JUILLET/05. Not school related/Travel",
+    "Christophe_obsidian_BU 29 JUILLET/04. Labs/Temporal Ecology Lab",
+    "Christophe_obsidian_BU 29 JUILLET/04. Labs/Pierre Drapeau Lab",
+    "Christophe_obsidian_BU 29 JUILLET/03. Cheat sheets/Writing cheat sheet",
+    "Christophe_obsidian_BU 29 JUILLET/prim_sec_growth.jpeg",
+    "Christophe_obsidian_BU 29 JUILLET/Screenshot 2023-07-24 at 5.03.13 PM.png",
+    "Christophe_obsidian_BU 29 JUILLET/Screenshot 2023-07-24 at 5.02.00 PM.png",
+    "Christophe_obsidian_BU 29 JUILLET/Screenshot 2023-07-24 at 10.21.11 AM.png",
+    "Christophe copy/Screenshot 2023-07-24 at 5.03.13 PM.png",
+    "Christophe copy/prim_sec_growth.jpeg",
+    "Christophe copy/Screenshot 2023-07-24 at 10.21.11 AM.png",
+    "Christophe copy/Screenshot 2023-07-24 at 5.02.00 PM.png",
+    "Christophe/Untitled 1.canvas",
+    "Christophe/Untitled.canvas",
+    "Christophe/Screenshot 2023-07-24 at 5.03.13 PM.png",
+    "Christophe/Screenshot 2023-07-24 at 5.02.00 PM.png",
+    "Untitled.canvas"
+  ]
+}
