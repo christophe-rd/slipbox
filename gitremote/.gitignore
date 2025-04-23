@@ -2,6 +2,7 @@
 # Ignore everything
 *
 
+# But not this folder
 !gitremote/
 !gitremote/**
 

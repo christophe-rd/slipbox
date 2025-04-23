@@ -1,0 +1,1 @@
+Since birch have shown a reduction of radial growth following spring frost [[Response of Trees to spring frost]]. There could be a link with the defoliation I did this summer for phaenoflex since this treatment can mimic spring frost. 
