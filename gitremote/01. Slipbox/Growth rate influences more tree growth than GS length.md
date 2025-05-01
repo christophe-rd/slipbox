@@ -4,6 +4,7 @@ The growth rate has a more direct influence on tree growth than the growing seas
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[Extremely cold summers limit trees' physiological activity]]
 **Source**: An earlier start of growing season can affect tree radial growth through regulating cumulative growth rate
 **Authors**: Jian Kang
 **Year**: 2023

@@ -3,11 +3,11 @@ The wide range of plant phenoresponses to climate change might cause community s
 - E.g. a study showed that species growing in a cool climate are more sensitive to warming climate than those in warm regions. 
 Convergence of phenological events across a temperature gradient could also increase gene flow across lat/long. 
 
-It can also cause [[Phenological mismatch across trophic levels because of climate change]], by altering for example the interactions between plants and herbivores. 
+It can also cause [[Phenological mismatch across trophic levels because of climate change|phenological mismatch across trophic levels because of climate change]], by altering for example the interactions between plants and herbivores. 
 
 Plant phenological shifts can also alter soil moisture, run-off and precipitation through their influence on evapotranspiration.
 
-Finally, [[Plant phenological changes can modify surface temperature]].
+Finally, [[Plant phenological changes can modify surface temperature|plant phenological changes can modify surface temperature]].
 
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>

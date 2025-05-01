@@ -11,6 +11,7 @@ In contrast, process-based models on autumn plant phenology are still scarce. Th
 [[Carbon source-sink dynamics could influence leaf senescence]]
 [[Importance of nutrient, water, pathogen and air pollution on leaf senescence]]
 [[Environmental cues controlling leaf senescence are unclear]]
+[[Leaf colouring can be delayed by summer drought]]
 **Source**:  A new process-based model for predicting autumn phenology: How is leaf senescence controlled by photoperiod and temperature coupling?
 **Authors**: Piao, Shilong, Lang, Weiguang, Lang
 **Year**: 2019

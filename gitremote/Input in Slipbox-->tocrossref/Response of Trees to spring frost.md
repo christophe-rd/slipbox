@@ -1,10 +1,3 @@
-#### References
-**Source**: No Risk—no fun: Penalty and Recovery from spring frost damage in deciduous temperate trees
-**Cross references**: [[Meteorological season, based on environmental conditions]]
-**Location**: Zotero library
-**Author**: Frederik Baumgarten, Arthur Gessler, Yann Vitasse
-**Keywords**: #SpringFrost  #phenology 
-
 #### **Relevant notes**:
 - The more time plants are exposed to cool temperatures, the less energy is required for the buds to burst
 - In the context of extended heat period, frost damage trees a lot. That phenomenon follows an elevation gradient. Also birch have shown a reduction of radio growth in the presence of a spring frost. [[Radial growth response to defoliation]]
@@ -16,6 +9,14 @@
 - There are costs of additional #leaf_cohort due to spring frost
 - Thorough description of #phenostages
 - Species that flush earlier have an advantage in terms of light. Predominantly for shade-intolerant species.
+#### References
+**Source**: No Risk—no fun: Penalty and Recovery from spring frost damage in deciduous temperate trees
+**Cross references**: 
+[[Meteorological season, based on environmental conditions]]
+[[Oak growth is negatively affected by summer drought and spring frost]]
+**Location**: Zotero library
+**Author**: Frederik Baumgarten, Arthur Gessler, Yann Vitasse
+**Keywords**: #SpringFrost  #phenology 
 
 **Questions**
 - Why birch don't show a carry-over after a spring frost year?

@@ -12,6 +12,7 @@ Earlier leaf-out increases the risk of spring frost
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[Response of Trees to spring frost]]
 **Source**: Leaf-out phenology of temperate woody plants: from trees to ecosystems
 **Authors**: Polgar, Caroline
 **Year**: 2011

@@ -6,7 +6,7 @@ Species studied: **Beech**. They showed that peak wood formation happened from t
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**:
-
+[[Silver birch cambial activation can happen before or after bud burst]]
 **Source**: Tree-ring variation, wood formation and phenology of beech (Fagus sylvatica) from a representative site in Slovenia, SE Central Europe
 **Authors**: Kufar
 **Year**: 2008
