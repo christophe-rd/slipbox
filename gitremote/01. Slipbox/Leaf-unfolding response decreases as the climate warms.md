@@ -15,6 +15,7 @@ As the dormancy period warms during the study period, the accumulated chilling i
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[Past phenological trends don't prologue future phenological changes]]
 **Source**: Declining global warming effects on the phenology of spring leaf unfolding
 **Authors**: Yongshuo H., Fu
 **Year**: 2015

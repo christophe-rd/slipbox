@@ -4,9 +4,10 @@ If the [[Carbon-sink limitation hypothesis|carbon sink exhaustion hypothesis]] p
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[Longer season may not lead to increased carbon storage in wood]]
 **Source**: Carbon Source Reduction Postpones Autumn Leaf Senescence in a Widespread Deciduous Tree
 **Authors**: Julia Maschler, Constantin Zohner, Thomas Crowther
 **Year**: 2022
 **Location**: Zotero
-**Keywords**: #CarbonSource-Sink #climateChange 
+**Keywords**: #carbonSource-Sink #climateChange 
 **Added to slipbox on**: January 2025

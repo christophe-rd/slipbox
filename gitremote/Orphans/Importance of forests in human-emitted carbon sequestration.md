@@ -8,5 +8,5 @@ Over the past decades, established forests have taken up over 25% of the carbon 
 **Authors**: Julia Maschler, Constantin Zohner, Thomas Crowther
 **Year**: 2022
 **Location**: Zotero
-**Keywords**: #CarbonSource-Sink #climateChange 
+**Keywords**: #carbonSource-Sink #climateChange 
 **Added to slipbox on**: January 2025

@@ -11,4 +11,4 @@ However, delayed [[Leaf senescence is controlled by photoperiod and temperature|
 **Authors**: Constantin Zohner, Renner
 **Year**: 2021
 **Location**: Zotero
-**Keywords**: #AutumnPhenology #SpringPhenology #CarbonSource-Sink 
+**Keywords**: #AutumnPhenology #SpringPhenology #carbonSource-Sink

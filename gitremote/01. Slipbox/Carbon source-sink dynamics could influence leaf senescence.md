@@ -13,5 +13,5 @@ The concept of carbon sink limitation in trees is supported by a study that demo
 **Authors**: Julia Maschler, Constantin Zohner, Thomas Crowther
 **Year**: 2022
 **Location**: Zotero
-**Keywords**: #CarbonSource-Sink #AutumnPhenology 
+**Keywords**: #carbonSource-Sink #AutumnPhenology 
 **Added to slipbox on**: January 2025

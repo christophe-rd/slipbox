@@ -26,9 +26,10 @@ A lack of sufficient chilling in mild winters might delay bud break.
 	- Reproductive events
 - Temperature plays a role in modulating et triggering the visible progress of phenology
 #### References
-**Cross references**:  [[Earlier spring and delayed autumn events extend growing season]]
+**Cross references**:  
+[[Earlier spring and delayed autumn events extend growing season]]
 [[Earlier leaf-out might amplify drought in early summer]]
 **Source**: Phenology under Global Warming 
 **Authors**: Christian Körner
 **Location**: Zotero
-**Keywords**: #phenology #photoperiod
+**Keywords**: #phenology #photoperiod 

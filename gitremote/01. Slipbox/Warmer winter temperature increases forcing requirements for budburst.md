@@ -9,5 +9,7 @@ Warmer temperatures recorded during the last two decades have increased forcing 
 **Authors**: Constant Signarbieux
 **Year**: 2017
 **Location**: Zotero
-**Keywords**: #BudBreak #SpringPhenology #WinterPhenology 
+**Keywords**: #BudBreak #SpringPhenology #WinterPhenology #forcingRequirements
 **Added to slipbox on**: 9 January 2025
+
+*See also: Sensitivity of leaf unfolding to experimental warming in three temperate tree species

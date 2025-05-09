@@ -14,5 +14,5 @@ The removal of leaves increased autumn photosynthesis and delayed whole-plant le
 **Authors**: Julia Maschler, Constantin Zohner, Thomas Crowther
 **Year**: 2022
 **Location**: Zotero
-**Keywords**: #CarbonSource-Sink #climateChange 
+**Keywords**: #carbonSource-Sink #climateChange 
 **Added to slipbox on**: January 2025

@@ -5,7 +5,9 @@ E.g. common garden studies, where exotic species were planted in Europe have fou
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
-**Cross references**: [[Spring and autumn phenology varies with elevation]]
+**Cross references**:
+[[Spring and autumn phenology varies with elevation]]
+[[Spring and fall phenology showed greater variation due to phenotypic plasticity than to genotype]]
 **Source**: Progress towards an interdisciplinary science of plant phenology: building predictions across space, time and species diversity
 **Authors**: Wolkovich, Elizabeth; Cook, Benjamin; Davies, Jonathan
 **Year**: 2013

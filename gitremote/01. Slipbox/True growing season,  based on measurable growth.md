@@ -12,6 +12,7 @@ The **"True" growing season** would be the **period at which a plant grows** (ev
 - End of the growing season, daily mean <5Celsius is a good proxy for the end of the growing season. 
 ##### References
 **Cross references**: 
+[[Longer season may not lead to increased carbon storage in wood]]
 **Source**: Four ways to define the growing season
 **Author**: Christian Körner
 **Location**: Zotero

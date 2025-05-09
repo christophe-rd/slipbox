@@ -5,7 +5,7 @@ They propose the concept of "safe winter chill," which is the amount of chilling
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**:
-
+[[Chilling duration outweighs absolute chilling temperature]]
 **Source**: Climatic Changes Lead to Declining Winter Chill for Fruit and Nut Trees in California during 1950–2099
 **Authors**: Eike Luedeling
 **Year**: 2009

@@ -6,7 +6,7 @@ They showed that the genetic background of Pinus cembra had limited influence on
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**:
-
+[[Strong local adaptation revealed by tree ring width of lodgepole pines]]
 **Source**: Tree-rings, genetics and the environment: Complex interactions at the rear edge of species distribution range
 **Authors**: Johann M. Housset, Yves Bergeron
 **Year**: 2021

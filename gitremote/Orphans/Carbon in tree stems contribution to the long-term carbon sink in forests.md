@@ -11,5 +11,5 @@ Additionally, tree radial growth represents the annual accumulation and fixation
 **Authors**: Gao, Shan
 **Year**: 2022
 **Location**: Zotero
-**Keywords**: #treerings
+**Keywords**: #treeRings
 **Added to slipbox on**: 7 October 2024. 

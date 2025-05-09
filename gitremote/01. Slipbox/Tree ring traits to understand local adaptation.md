@@ -6,6 +6,7 @@ They showed that tree-ring traits measured in common garden experiments offer gr
 **Cross references**:
 [[Tree-rings are reliable indicators of forest health and decline]]
 [[Pine genotype did not influence radial-growth and climatic responses]]
+[[Dendrochonology studies must separate ontogenic effects of aging from temporal climate fluctuations]]
 
 **Source**: Tree rings provide a new class of phenotypes for genetic associations that foster insights into adaptation of conifers to climate change
 **Authors**: Housset
