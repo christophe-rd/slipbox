@@ -4,6 +4,7 @@ With warming-induced leaf-out advancement, reduced photoperiod earlier in spring
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[Photoperiod limitation as a way to protect leaves against frost damage]]
 **Source**: Plant Phenology and global climate change: Current progresses and challenges
 **Authors**: Piao, Shilong
 **Year**: 2019

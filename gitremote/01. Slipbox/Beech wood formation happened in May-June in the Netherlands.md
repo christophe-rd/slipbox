@@ -11,5 +11,5 @@ Species studied: **Beech**. They showed that peak wood formation happened from t
 **Authors**: Kufar
 **Year**: 2008
 **Location**: Online
-**Keywords**: #CambialPhenology 
+**Keywords**: #cambialPhenology 
 **Added to slipbox on**: 4 February 2025

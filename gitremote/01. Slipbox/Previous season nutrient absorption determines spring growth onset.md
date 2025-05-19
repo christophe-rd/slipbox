@@ -8,5 +8,5 @@ The emergence and growth of new spring foliage in temperate deciduous trees rely
 **Authors**: Kristine Vander Mijnsbrugge
 **Year**: 2019
 **Location**: Zotero
-**Keywords**: #CommonGarden #Wildchrokie #SpringPhenology #AutumnPhenology 
+**Keywords**: #commonGarden #Wildchrokie #SpringPhenology #AutumnPhenology 
 **Added to slipbox on**: 23 January 2025

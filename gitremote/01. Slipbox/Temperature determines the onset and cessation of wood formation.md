@@ -14,5 +14,5 @@ Their results showed:
 **Authors**: Annie Deslauriers
 **Year**: 2008
 **Location**: Zotero
-**Keywords**: #Wildchrokie #CambialPhenology
+**Keywords**: #Wildchrokie #cambialPhenology
 **Added to slipbox on**: February 2025

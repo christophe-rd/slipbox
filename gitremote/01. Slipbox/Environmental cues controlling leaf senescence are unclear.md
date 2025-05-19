@@ -5,6 +5,7 @@ There is little consensus on the environmental cues for leaf colouring and absci
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[Many factors controlling autumn phenology lead to high uncertainty in GS length]]
 **Authors**: Gunderson, Carla et al. 
 **Year**: 2012
 **Location**: Zotero

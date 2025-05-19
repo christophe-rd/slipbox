@@ -12,5 +12,5 @@ All individuals in a common garden share the same environment; any average diffe
 **Authors**: Kristine Vander Mijnsbrugge
 **Year**: 2019
 **Location**: Zotero
-**Keywords**: #CommonGarden #Wildchrokie 
+**Keywords**: #commonGarden #Wildchrokie 
 **Added to slipbox on**: 23 January 2025

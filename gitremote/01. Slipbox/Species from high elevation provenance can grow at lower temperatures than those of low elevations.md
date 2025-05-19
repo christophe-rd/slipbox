@@ -6,10 +6,10 @@ They show that species can grow at lower temperatures than those corresponding t
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
-
+[[Growth rate, growth cessation and their relation to photoperiod and temperature]]
 **Source**: Where, why and how? Explaining the low-temperature range limits of temperate tree species
 **Authors**: Christian Körner
 **Year**: 2016
 **Location**: Zotero
-**Keywords**: #SpringPhenology #Wildchrokie #CambialPhenology 
+**Keywords**: #SpringPhenology #Wildchrokie #cambialPhenology 
 **Added to slipbox on**: 4 February 2025

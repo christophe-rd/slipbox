@@ -1,6 +1,6 @@
 #### **Relevant notes**:
 They showed VERY interesting results. The leaf unfolding decreased in response to climate change. 
-###### They present 3 hypothesises:
+###### They present 3 hypotheses:
 1. **Adaptation to increased variance in spring temperature**
 Possible effects of increased variance in temperature. Trees may develop conservative strategies (or higher phenological plasticity) of spring leaf unfolding in places where temperatures fluctuates more. E.g. to avoid spring frost damage.
 2. **Photoperiodic limitations (due to earlier leaf unfolding) overriding temperature controls**

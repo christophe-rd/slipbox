@@ -12,6 +12,7 @@
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[Methods. Bud burst monitoring]]
 **Source**:  Asymmetric effects of cooler and warmer winters on beech phenology last beyond spring
 **Authors**: Constant Signarbieux
 **Year**: 2017

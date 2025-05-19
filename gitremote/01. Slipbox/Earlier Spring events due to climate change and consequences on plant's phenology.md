@@ -3,6 +3,7 @@
 	- More precisions here: [[Earlier spring and delayed autumn events extend growing season]]
 - This has consequences on plants since different factors control phenology depending on the plant type: 
 ##### [[Factors controlling forest phenology| Factors controlling phenology in]] :
+
 ###### Ornamental plants from warm regions:
 1. Temperature
 ###### Early successional species (temperate latitudes)

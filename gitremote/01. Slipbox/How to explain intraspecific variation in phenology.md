@@ -12,5 +12,5 @@ E.g. common garden studies, where exotic species were planted in Europe have fou
 **Authors**: Wolkovich, Elizabeth; Cook, Benjamin; Davies, Jonathan
 **Year**: 2013
 **Location**: Zotero
-**Keywords**: #Wildchrokie  #CommonGarden
+**Keywords**: #Wildchrokie  #commonGarden
 **Added to slipbox on**: 18 October 2024. 

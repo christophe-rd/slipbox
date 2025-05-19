@@ -5,7 +5,6 @@ The extent to which tree xylem growth will respond to warming and precipitation 
 ##### References
 **Cross references**: 
 [[Precipitation early in the season is more important than throughout the GS]]
-[[Xylem growth response to warming and precipitation changes is uncertain]]
 [[Densitometry provides higher temporal resolution than tree-rings]]
 **Source**:  Interpreting common garden studies to understand cueing mechanisms of spring leafing phenology in temperate and boreal tree species
 **Authors**: Carl Salk

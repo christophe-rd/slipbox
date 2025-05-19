@@ -9,5 +9,5 @@ In 59 species, the timing of autumn senescence displayed a pattern according to 
 **Authors**: Kristine Vander Mijnsbrugge
 **Year**: 2019
 **Location**: Zotero
-**Keywords**: #CommonGarden #Wildchrokie #SpringPhenology #AutumnPhenology 
+**Keywords**: #commonGarden #Wildchrokie #SpringPhenology #AutumnPhenology 
 **Added to slipbox on**: 23 January 2025

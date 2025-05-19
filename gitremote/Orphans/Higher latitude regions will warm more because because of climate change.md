@@ -5,6 +5,7 @@ Warming will not be distributed equally across the globe. Higher latitude region
 ##### References
 **Cross references**: 
 [[Consequences of climate change induced Antartica Ice Sheet melt]]
+[[Arctic and subarctic regions are warming much faster than other regions]]
 **Source**: Photoperiod constraints on tree phenology, performance and migration in a warming world
 **Authors**: Way, Danielle
 **Year**: 2015

@@ -9,9 +9,10 @@ Leaf-out occurs when the probability to encounter freezing damage approaches zer
 ##### References
 **Cross references**:
 [[Species range are limited by the trade-off between GS length and freezing escape]]
+[[Photoperiod limitation as a way to protect leaves against frost damage]]
 **Source**: Convergence of leaf‐out towards minimum risk of freezing damage in temperate trees
 **Authors**: Armando Lenz, Christian Korner, Yann Vitasse, Sabrina Russo
 **Year**: 2016
 **Location**: Zotero
-**Keywords**: #SpringPhenology #SpringFrost #PhotoperiodSensitivity 
+**Keywords**: #SpringPhenology #SpringFrost #photoperiodSensitivity 
 **Added to slipbox on**: 14 March 2025

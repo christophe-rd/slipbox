@@ -8,5 +8,5 @@ No relationship between the timing of cambial activity and bud burst in Quercus 
 **Authors**: Kristine Vander Mijnsbrugge
 **Year**: 2019
 **Location**: Zotero
-**Keywords**: #CommonGarden #Wildchrokie #SpringPhenology 
+**Keywords**: #commonGarden #Wildchrokie #SpringPhenology 
 **Added to slipbox on**: 23 January 2025

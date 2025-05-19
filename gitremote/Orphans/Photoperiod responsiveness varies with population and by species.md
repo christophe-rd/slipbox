@@ -12,5 +12,5 @@ Populations of a given species often have different photoperiodic requirements a
 **Authors**: Polgar, Caroline
 **Year**: 2011
 **Location**: Zotero
-**Keywords**: #SpringPhenology #PhotoperiodSensitivity
+**Keywords**: #SpringPhenology #photoperiodSensitivity 
 **Added to slipbox on**:  12 November 2024

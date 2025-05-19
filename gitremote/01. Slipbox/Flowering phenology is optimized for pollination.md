@@ -6,6 +6,7 @@ If many species compete for pollination, flowering times should become spread th
 ##### References
 **Cross references**:
 [[Temporal flowering positions of different plants]]
+[[Flowering phenology is the central process in reproductive biology]]
 **Source**: Constraints and Competition in the Evolution of Flowering Phenology
 **Authors**: John Kochmer
 **Year**: 1986

@@ -16,5 +16,5 @@ They hypothesized that seed set would be diminished, seed quality and viability 
 **Authors**: Christian Körner
 **Year**: 2016
 **Location**: Zotero
-**Keywords**: #SpringPhenology #Wildchrokie #CambialPhenology 
+**Keywords**: #SpringPhenology #Wildchrokie #cambialPhenology 
 **Added to slipbox on**: 4 February 2025

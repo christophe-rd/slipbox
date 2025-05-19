@@ -14,5 +14,5 @@ They ask the question of whether there is a link between changes in cambial phen
 **Authors**: Annie Deslauriers
 **Year**: 2008
 **Location**: Zotero
-**Keywords**: #Wildchrokie #CambialPhenology
+**Keywords**: #Wildchrokie #cambialPhenology
 **Added to slipbox on**: 4 February 2025
