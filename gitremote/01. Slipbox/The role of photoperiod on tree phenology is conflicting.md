@@ -8,6 +8,7 @@ The evidence for the role in photoperiod on tree phenology is conflicting, depen
 [[Xylem growth contributes to long-term carbon storage of forests]]
 [[Leaf senescence is controlled by photoperiod and temperature]]
 [[Asynchrony between photoperiod and temperature]]
+[[The role of environmental conditions in explaining photoperiod sensitivity]]
 **Source**: Shifting plant phenology in response to global change
 **Authors**: Elsa Cleland, Isabelle Chuine, Anette Menzel
 **Year**: 2007

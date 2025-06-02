@@ -6,7 +6,7 @@ With warmer spring and autumn temperature, there could be a potential asynchrony
 ##### References
 **Cross references**: 
 [[Response of Trees to spring frost]]
-[[Photoperiod as a protective mechanisms to prevent spring frost]]
+[[Photoperiod cue can prevent spring frost]]
 [[Earlier-leaf out can lead to spring frost]]
 [[Spring phenology models have reached maturity]]
 **Source**: Photoperiod constraints on tree phenology, performance and migration in a warming world

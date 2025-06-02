@@ -9,6 +9,7 @@ Boreal and temperate trees require a certain amount of heat after they come out 
 [[Trees go through 2 forms of deacclimatation during spring]]
 [[Warmer winter temperature increases forcing requirements for budburst]]
 [[The importance of winter chilling for fruit crops]]
+[[Weaker temperature sensitivity could be caused by light limitation in the tundra]]
 **Source**: Declining global warming effects on the phenology of spring leaf unfolding
 **Authors**: Yongshuo H., Fu
 **Year**: 2015

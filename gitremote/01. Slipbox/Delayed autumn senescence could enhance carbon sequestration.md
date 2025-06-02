@@ -4,6 +4,7 @@ Leaf senescence completes the growing season for deciduous trees. Thus, factors 
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[Photoperiod limitation may constrain carbon sequestration in autumn]]
 **Source**: Changes in autumn senescence in northern hemisphere deciduous trees: a meta-analysis of autumn phenology studies
 **Authors**: Allison L. Gill
 **Year**: 2015
