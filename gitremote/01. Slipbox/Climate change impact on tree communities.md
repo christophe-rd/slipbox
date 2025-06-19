@@ -1,5 +1,5 @@
 #### **Relevant notes**:
-- Climate change modifies tree communities in different ways, one of them is through an increase in tree mortality. This can be ascribed to drought or even insect epidemics that are induced by drought. 
+- Climate change modifies tree communities in different ways, one of them is through an [[Spruce mortality in the Tibetan plateau is increasing in response to CC drought|increase in tree mortality]]. This can be ascribed to drought or even insect epidemics that are induced by drought. 
 	1. These insect epidemics increase defoliation, which often comes with a reduction of non-structural carbohydrates (NSC). Indeed, any way that defoliation occurs, can cause an imbalance in NSC concentrations. However, the severity of the defoliation varies regarding of:
 		1. Host species
 		2. Growth stage
@@ -11,6 +11,7 @@
 **Cross references**: 
 [[Limitations of tree growth can be source or sink limited]]
 [[Earlier leaf-out might amplify drought in early summer]]
+
 [[How tree growth is affected by temperature]]
 [[Meteorological season, based on environmental conditions]]
 

@@ -10,6 +10,7 @@ Consequences of longer seasons at the individual level:
 [[Warm spells and subsequent freeze can damage plant tissues]]
 [[Growth rate influences more tree growth than GS length]]
 [[Temperature determines the onset and cessation of wood formation]]
+[[Earlier growth initiation doesn't always translate to increased growth]]
 **Source**: Alteration of the phenology of leaf senescence and fall in winter deciduous species by climate change: effects on nutrient proficiency
 **Authors**: Estiarte, Marc
 **Year**: 2015

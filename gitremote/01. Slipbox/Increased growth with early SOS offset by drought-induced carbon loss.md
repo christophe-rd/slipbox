@@ -4,6 +4,7 @@ Other studies showed that the beneficial effects of spring warmth on GS producti
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[Earlier leaf-out might amplify drought in early summer]]
 **Source**: An earlier start of growing season can affect tree radial growth through regulating cumulative growth rate
 **Authors**: Jian Kang
 **Year**: 2023

@@ -10,6 +10,7 @@ The removal of leaves increased autumn photosynthesis and delayed whole-plant le
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[Growth cessation in cold tree lines ecotones is not limited by carbon]]
 **Source**: Carbon Source Reduction Postpones Autumn Leaf Senescence in a Widespread Deciduous Tree
 **Authors**: Julia Maschler, Constantin Zohner, Thomas Crowther
 **Year**: 2022
