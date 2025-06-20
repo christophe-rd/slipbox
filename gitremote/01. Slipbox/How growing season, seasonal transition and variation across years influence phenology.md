@@ -17,5 +17,5 @@ How growing season, seasonal transition length, and inter-annual variability may
 **Authors**: Stephanie Pau, Lizzie Wolkovich, Elsa Cleland, 
 **Year**: 2011
 **Location**: Zotero
-**Keywords**: #phenology #Phylogeny #growingSeason 
+**Keywords**: #phenology #phylogeny #growingSeason 
 **Added to slipbox on**: 8 January 2025

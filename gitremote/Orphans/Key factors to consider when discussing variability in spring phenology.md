@@ -13,5 +13,5 @@ When variability in flushing date is discussed, it's crucial to separate:
 **Authors**: Yann Vitasse, Christian Koerner
 **Year**: 2014
 **Location**: Zotero
-**Keywords**: #Phylogeny  #SpringPhenology 
+**Keywords**: #phylogeny  #SpringPhenology 
 **Added to slipbox on**: 8 January 2025. 

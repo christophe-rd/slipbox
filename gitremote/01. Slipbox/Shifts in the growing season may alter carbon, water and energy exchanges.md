@@ -1,7 +1,6 @@
 #### **Relevant notes**:
 Since the vegetation growing season is approximately equivalent to the photosynthetic period, carbon-uptake period, and transpiration period, climate change-induced vegetation GS shifts may influence the exchange capacities of carbon, water, and energy among land surface and the atmosphere and consequently result in **ecosystem productivity** variations. 
 Additionally, the exchange capacities of carbon, water and energy will affect carbon balance and climate change.
-
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References

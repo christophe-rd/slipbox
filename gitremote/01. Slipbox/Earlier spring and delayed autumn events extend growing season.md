@@ -12,8 +12,9 @@ Therefore, the growing season is usually defined as the leaf unfolding and leaf 
 [[Growth cessation and autumn senescence are two independent stages]]
 [[Consequences of extended growing season at the individual level]]
 [[Low-latitude autumn senescence has been more delayed than at high latitudes]]
+[[Shifts in the growing season may alter carbon, water and energy exchanges]]
 **Source**: Growing Season Extended in Europe
 **Authors**: Annette Menzel, Peter Fabian
 **Year**: 1999
 **Location**: Zotero
-**Keywords**: #phenology #phenostages 
+**Keywords**: #phenology #phenostages #firstNoteSeries #growingSeason 
