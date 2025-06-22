@@ -10,5 +10,5 @@ Trees exhibit high phenological plasticity despite clear genetic differentiation
 **Authors**: Yann Vitasse, Christian Koerner
 **Year**: 2014
 **Location**: Zotero
-**Keywords**: #SpringPhenology #SpringFrost #Provenance #Wildchrokie
+**Keywords**: #SpringPhenology #SpringFrost #Provenance #Wildchrokie #localAdaptation 
 **Added to slipbox on**: 8 January 2025. 

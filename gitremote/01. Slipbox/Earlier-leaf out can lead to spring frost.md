@@ -6,18 +6,19 @@ Earlier leaf-out increases the risk of spring frost
 	- Immediate result: dieback of young growth. 
 	- The damage differed among species depending on the individual developmental stage. 
 		- Plants undergoing leaf elongation suffered much more than those that were just bud bursting their buds. 
-		- Species that burst their leaf buds early and developed slowly were less vulnerable to the late frost than plants with early budburst and quick leaf development. 
-		- Species with late budbursts and quick development of leaves also suffered high damage.
+		- Species that burst their leaf buds early **and** developed **slowly** were less vulnerable to the late frost than plants with early budburst **and** **quick** leaf development. 
+		- Species with late budburst and quick development of leaves also suffered high damage.
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
 [[Response of Trees to spring frost]]
+[[Temperate trees leaf-out when freezing damage probability is near zero]]
 **Source**: Leaf-out phenology of temperate woody plants: from trees to ecosystems
 **Authors**: Polgar, Caroline
 **Year**: 2011
 **Location**: Zotero
-**Keywords**: #SpringPhenology #SpringFrost
+**Keywords**: #SpringPhenology #SpringFrost 
 **Added to slipbox on**:  12 November 2024
 
 **See also:** 

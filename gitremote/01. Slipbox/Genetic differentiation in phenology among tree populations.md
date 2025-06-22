@@ -13,6 +13,6 @@ No common garden studies have investigated whether there is a genetic differenti
 **Authors**: Yann Vitasse, Christian Koerner
 **Year**: 2014
 **Location**: Zotero
-**Keywords**: #SpringPhenology #SpringFrost #Provenance #Wildchrokie
+**Keywords**: #SpringPhenology #Provenance #Wildchrokie
 **Added to slipbox on**: 8 January 2025. 
 **Further readings:** (Engler, 1913; Burger, 1926; Langlet, 1971; Barnett and Farmer, 1980; Vitasse et al., 2009a, 2013; Alberto et al., 2011; Körner, 2012)

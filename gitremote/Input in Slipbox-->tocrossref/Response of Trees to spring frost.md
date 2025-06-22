@@ -3,7 +3,7 @@
 - In the context of extended heat period, frost damage trees a lot. That phenomenon follows an elevation gradient. Also birch have shown a reduction of radio growth in the presence of a spring frost. [[Radial growth response to defoliation]]
 	- They don't show a carry-over in the following years.
 	- There seems to be a compromise: they reduce radial growth instead of reduction of non structural carbohydrates
-- Trees have shown a delay of #leaf_senescence in response to spring frost
+- Trees have shown a delay of #leaf_senescence  in response to spring frost
 - The phenological stage that's most sensible to frost: leaf out
 	- Mature leaves are more tolerant
 - There are costs of additional #leaf_cohort due to spring frost

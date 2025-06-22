@@ -8,6 +8,7 @@ Delays of leaf unfolding are reported and it is such that the period available t
 ##### References
 **Cross references**:
 [[Selection acts more strongly on budset than on budflush]]
+[[Phenological plasticity of trees]]
 **Source**:  European deciduous trees exhibit similar safety margins against damage by spring freeze events along elevational gradients
 **Authors**: Yann Vitasse, Christian Korner
 **Year**: 2013
