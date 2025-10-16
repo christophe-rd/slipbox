@@ -4,9 +4,11 @@ Wood formation involves [[Cell division in the vascular cambium|cambial cell div
 
 They ask the question of whether there is a link between changes in cambial phenology and intra-annual wood formation.
 - E.g. changes in the duration of wood formation induced by a change in cambial phenology might result in a modification to ring-width formation.
+
+
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
-##### References
+##### References 
 **Cross references**:
 [[Temperature determines the onset and cessation of wood formation]]
 [[Radial growth increased by temperature depends on when it is warmer]]
@@ -16,3 +18,6 @@ They ask the question of whether there is a link between changes in cambial phen
 **Location**: Zotero
 **Keywords**: #Wildchrokie #cambialPhenology
 **Added to slipbox on**: 4 February 2025
+
+
+**Additional information** from a paper [[Xylogenesis varies across species and wood porousness|where this note comes from]]: In temperate forests where trees are dormant in the winter, reactivation of the cambium occurs in the spring when new cells start to form, followed by cell expansion, which determines tree radial growth. The rate of radial growth and the duration of cambial activity will determine the annual tree-ring. 
