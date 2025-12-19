@@ -5,6 +5,7 @@ Warmer temperatures recorded during the last two decades have increased forcing 
 ##### References
 **Cross references**: 
 [[Lack of winter chilling might decrease bud survival]]
+[[Chilling may have a greater effect on budburst than forcing]]
 **Source**:  Asymmetric effects of cooler and warmer winters on beech phenology last beyond spring
 **Authors**: Constant Signarbieux
 **Year**: 2017

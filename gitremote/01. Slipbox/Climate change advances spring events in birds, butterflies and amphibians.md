@@ -6,9 +6,10 @@ However, these trends aren't as clear for autumn phenology.
 ##### References
 **Cross references**:
 [[Spring phenophases correlate with spring temperature of the preceding months]]
+[[Importance of phenology to conservation]]
 **Source**: Ecological responses to recent climate change
 **Authors**: Walther, Gian-Reto 
 **Year**: 2002
 **Location**: Zotero
-**Keywords**: #SpringPhenology 
+**Keywords**: #SpringPhenology #breedingPhenology 
 **Added to slipbox on**: 1 November 2024. 

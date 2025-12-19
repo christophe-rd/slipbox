@@ -6,9 +6,10 @@ Data accumulation through remote sensing greatly enhanced our capacity to detect
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References
 **Cross references**: 
+[[UAVs and deep-learning for increasing spatio-temporal resolution of forest surveys]]
 **Source**: Plant Phenology and global climate change: Current progresses and challenges
 **Authors**: Piao, Shilong
 **Year**: 2019
 **Location**: Zotero/Paper
-**Keywords**: #phenostages #PhenostagesMethodology
+**Keywords**: #phenostages #PhenostagesMethodology #firstNoteSeries 
 **Added to slipbox on**: 13 September 2024. 

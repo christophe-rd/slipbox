@@ -1,5 +1,5 @@
 #### **Relevant notes**:
-- [[Temperature as the primary driver of plant phenology]]
+- [[Temperature as the primary driver of plant spring phenology]]
 - [[Photoperiod is a critical driver of plant phenology]]
 - [[Nutrient and water availability can influence plant phenology]]
 - [[Interaction among phenological events]]

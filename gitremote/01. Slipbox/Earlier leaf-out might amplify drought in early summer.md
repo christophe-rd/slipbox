@@ -3,6 +3,7 @@ Earlier leaf-out timing might amplify drought in early summer as plants start to
 ##### References
 **Cross references**:
 [[Severe drought can stop wood growth]]
+[[How phenology impacts drought recovery]]
 **Source**: Impact of microclimatic conditions and resource availability on spring and autumn phenology of temperate tree seedlings
 **Authors**: Frederik Baumgarten, Yann Vitasse
 **Year:** 2021

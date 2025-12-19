@@ -1,6 +1,6 @@
 #### **Relevant notes**:
 Phenotypic variance in budset is strongly related to [[Provenance|provenance]], with Northern populations setting bud earlier than southern ones, consistent with the role of photoperiod as a major control on bud set.
-Generally, trees from lower altitudes have shorter critical photoperiod to induce growth cessation or budset. Thus, if moved poleward, they set bud later and achieve higher growth than local genotypes. Similarly, when populations are moved toward equator they set bud and cesase growth earlier as they have longer critical photoperiods.
+Generally, trees from lower altitudes have shorter critical photoperiod to induce growth cessation or budset. Thus, if moved poleward, they set bud later and achieve higher growth than local genotypes. Similarly, when populations are moved toward equator they set bud and cease growth earlier as they have longer critical photoperiods.
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 <><><><><><><><><><><><><><><><><><><><><><><><><><><><><>
 ##### References

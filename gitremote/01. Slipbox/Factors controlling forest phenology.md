@@ -16,7 +16,7 @@ Opportunistic taxa may profit from a warmer climate and thus gain a competitive 
 #### Photoperiod:
 [[The role of photoperiod on tree phenology is conflicting]]
 #### Temperature
-[[Temperature as the primary driver of plant phenology]]
+[[Temperature as the primary driver of plant spring phenology]]
 
 **But also, juvenile and adult trees don't leaf out at the same time:**
 [[Size matters when we talk about tree phenology]]
