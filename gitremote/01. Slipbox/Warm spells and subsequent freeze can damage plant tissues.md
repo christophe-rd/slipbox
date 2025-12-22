@@ -11,5 +11,5 @@
 **Authors**: Yann Vitasse, Christian Koerner
 **Year**: 2014
 **Location**: Zotero
-**Keywords**: #SpringFrost #drought #SpringPhenology #AutumnFrost #AutumnPhenology 
+**Keywords**: #SpringFrost #SpringPhenology #AutumnFrost #AutumnPhenology 
 **Added to slipbox on**: 8 January 2025. 

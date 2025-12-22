@@ -5,6 +5,7 @@ Environmental changes are going faster than plant populations can adapt. This **
 ##### References
 **Cross references**: 
 [[Seed provenance trials and responses to local climates]]
+[[Potential consequences of mismatch between phenology and climate]]
 **Source**: Cold adaptation recorded in tree rings highlights risks associated with climate change and assisted migration
 **Authors**: David Montwé
 **Year**: 2018
